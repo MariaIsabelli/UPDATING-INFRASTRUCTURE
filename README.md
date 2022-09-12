@@ -75,3 +75,5 @@ with `***`.
     ```
 
 1. To clean up resources, run `pulumi destroy` and answer the confirmation question at the prompt.
+
+![Pulumi Link Static Web](https://pulumi.awsworkshop.io/20_cloud_engineering_python/20_getting_started_with_pulumi/30_updating_infrastructure.html)
