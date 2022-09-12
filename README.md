@@ -1,7 +1,7 @@
 # UPDATING-INFRASTRUCTURE
 UPDATING INFRASTRUCTURE AWS
 
-[![Deploy](https://get.pulumi.com/new/button.svg)](https://app.pulumi.com/new?template=https://github.com/pulumi/examples/blob/master/aws-py-s3-folder/README.md)
+![image](https://user-images.githubusercontent.com/89652212/189725192-4b323c4d-e4ef-47b8-9057-6eca888b7b4b.png)
 
 # Host a Static Website on Amazon S3
 
